@@ -1,3 +1,0 @@
-runtime : python311
-env_variables:
-  DATABASE: '/tmp/db.example'
